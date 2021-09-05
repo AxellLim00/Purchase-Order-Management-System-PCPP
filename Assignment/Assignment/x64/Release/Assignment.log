@@ -1,0 +1,18 @@
+﻿  Source.cpp
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\User.h(74,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\supplierEntry.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\itemEntry.h(78,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\Date.h(38,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\Date.h(60,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\salesEntry.h(133,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\salesEntry.h(154,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\purchaseReq.h(110,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\purchaseReq.h(134,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\purchaseOrd.h(122,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\Assignment\purchaseOrd.h(143,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 416 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignment.vcxproj -> X:\OneDrive - Asia Pacific University\UNI\Year 2 Sem 2\PCPP\Assignment\Assignment\x64\Release\Assignment.exe

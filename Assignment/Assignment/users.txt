@@ -1,0 +1,4 @@
+purchase,pur1234,PM
+admin,admin,AD
+purman,purman,PM
+salman,salman,SM
